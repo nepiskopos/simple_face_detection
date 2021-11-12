@@ -1,5 +1,6 @@
 # Face Detection
 
+
 ## Description
 This repository contains a Jupyter notebook which tests and compares 7 simple face detection Machine Learning algorithms.
 
@@ -17,6 +18,7 @@ The face detectors used in these experiments are:
 The detectors are evaluated based on
 * **Total detection time**
 * **Total number of faces detected**
+
 
 
 ## Instructions
