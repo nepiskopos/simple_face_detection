@@ -1,0 +1,12 @@
+gdown
+jupyterlab
+matplotlib
+mtcnn
+tensorflow
+joblib
+torchvision
+scipy
+PyYaml
+pandas
+seaborn
+thop
