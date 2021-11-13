@@ -26,7 +26,7 @@ The detectors are evaluated based on
 
 1. Install necessary tools
 ```console
-sudo apt-get -y install wget zip bzip2
+sudo apt-get -y install git wget zip bzip2
 ```
 
 2. Fetch repository
